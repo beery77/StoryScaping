@@ -10,9 +10,8 @@ License:      GNU General Public License v2 or later
 License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
 
-.elementor-295 .elementor-element.elementor-element-857032b > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-    background-color: #FFFFFFD1;
-    transition: 1s;
-    left: 0;
+.elementor-widget-eael-simple-menu.eael-hamburger--not-responsive .eael-simple-menu-container.eael-simple-menu-align-right {
+    text-align: right;
+    position: fixed;
 }
 
