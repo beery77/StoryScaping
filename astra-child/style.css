@@ -19,6 +19,10 @@ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 }
 
 @keyframes slideleft {
-    0% {opacity: 0;}
-    100% {opacity: 1;}
+    from {
+        transform: translateX(-100%);
+      }
+      to {
+        transform: translateX(0%);
+      }
 }
