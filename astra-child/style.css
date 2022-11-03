@@ -10,8 +10,8 @@ License:      GNU General Public License v2 or later
 License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
 
-.elementor-295 .elementor-element.elementor-element-857032b > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-    background-color: #FFFFFFD1;
+.elementor-295 .elementor-element.elementor-element-857032b > .elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     animation-name: slideleft;
     animation-duration: 1s;
     animation-delay: 0.1s;
