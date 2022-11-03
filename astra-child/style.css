@@ -11,5 +11,9 @@ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 
 */
 
-
+.elementor-element.elementor-element-938d903 .eael-simple-menu-container {
+    background-color: var( --e-global-color-9e4c0f9 );
+    position: fixed;
+    width: 100%;
+}
 
